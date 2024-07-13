@@ -1,14 +1,14 @@
 ## Part A – Java Setup
 
 ### JDK Download
-- **Visit Oracle Java Download Page**: [Oracle Java Download](https://www.oracle.com/java/technologies/downloads/)
-- **Select Java Version**: Select the latest Java Development Kit (JDK) version; in this example, JDK 22 is selected.
-- **Choose Your Operating System**: Click on the appropriate download link for your operating system (Windows, MacOS, Linux).
-- **Download the Installer**: For Windows, select the link for the ‘x64 Installer’ to begin downloading the file named: `jdk-22_windows-x64_bin.exe`
-- **Complete the Installation**: Once downloaded, run the `jdk-22_windows-x64_bin.exe` file and follow the on-screen instructions to install Java.
+1. **Visit Oracle Java Download Page**: [Oracle Java Download](https://www.oracle.com/java/technologies/downloads/)
+2. **Select Java Version**: Select the latest Java Development Kit (JDK) version; in this example, JDK 22 is selected.
+3. **Choose Your Operating System**: Click on the appropriate download link for your operating system (Windows, MacOS, Linux).
+4. **Download the Installer**: For Windows, select the link for the ‘x64 Installer’ to begin downloading the file named: `jdk-22_windows-x64_bin.exe`
+5. **Complete the Installation**: Once downloaded, run the `jdk-22_windows-x64_bin.exe` file and follow the on-screen instructions to install Java.
 
     ![](resources/media/image1.png){width="6.758333333333334in" height="3.198611111111111in"}
-
+   <img src="resources/media/image1.png" width="675" height="320">
     
 **Java Environment Home Path Setup**
 
