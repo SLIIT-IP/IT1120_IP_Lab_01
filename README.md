@@ -15,11 +15,13 @@
     '_x64 Installer_' to begin downloading the file named:
     _jdk-22_windows-x64_bin.exe_
 
-5.  ![](resources/media/image1.png){width="6.758333333333334in"
-    height="3.198611111111111in"}**Complete the Installation**: Once
+5.  **Complete the Installation**: Once
     downloaded, run the _jdk-22_windows-x64_bin.exe_ file and follow the
     on-screen instructions to install Java.
 
+    ![](resources/media/image1.png){width="6.758333333333334in" height="3.198611111111111in"}
+
+    
 **Java Environment Home Path Setup**
 
 1.  **Locate Installation Directory**: Java installation default
