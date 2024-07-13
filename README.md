@@ -1,4 +1,3 @@
-
 **Part A -- Java Setup**
 
 **JDK Download**
@@ -7,18 +6,18 @@
     [[https://www.oracle.com/java/technologies/downloads/]{.underline}](https://www.oracle.com/java/technologies/downloads/)
 
 2.  **Select Java Version**: Select the latest Java Development Kit
-    (JDK) version, in this example *JDK 22* selected.
+    (JDK) version, in this example _JDK 22_ selected.
 
 3.  **Choose Your Operating System**: Click on the appropriate download
     link for your operating system (Windows, MacOS, Linux).
 
 4.  **Download the Installer**: For Windows select the link for the
-    '*x64 Installer*' to begin downloading the file named:
-    *jdk-22_windows-x64_bin.exe*
+    '_x64 Installer_' to begin downloading the file named:
+    _jdk-22_windows-x64_bin.exe_
 
-5.  ![](vertopal_fe2db0815f4c4c8cb606c3b0caf2a7f3/media/image1.png){width="6.758333333333334in"
+5.  ![](resources/media/image1.png){width="6.758333333333334in"
     height="3.198611111111111in"}**Complete the Installation**: Once
-    downloaded, run the *jdk-22_windows-x64_bin.exe* file and follow the
+    downloaded, run the _jdk-22_windows-x64_bin.exe_ file and follow the
     on-screen instructions to install Java.
 
 **Java Environment Home Path Setup**
@@ -26,54 +25,54 @@
 1.  **Locate Installation Directory**: Java installation default
     location is:
 
-*C:\\Program Files\\Java\\jdk-22*
+_C:\\Program Files\\Java\\jdk-22_
 
 2.  **Open System Properties**:
 
-    -   **Open the Start Menu**: Click on the Start button or press the
-        Windows key.
+    - **Open the Start Menu**: Click on the Start button or press the
+      Windows key.
 
-    -   **Access Control Panel**: Type *Control Panel* into the search
-        box and click on it from the search results.
+    - **Access Control Panel**: Type _Control Panel_ into the search
+      box and click on it from the search results.
 
-    -   **System and Security**: In the Control Panel, click on '*System
-        and Security*'.
+    - **System and Security**: In the Control Panel, click on '_System
+      and Security_'.
 
-    -   **System**: Click on '*System*'.
+    - **System**: Click on '_System_'.
 
-    -   **Advanced System Settings**: Click '*Advanced system settings*'
-        on the right side.
+    - **Advanced System Settings**: Click '_Advanced system settings_'
+      on the right side.
 
-![](vertopal_fe2db0815f4c4c8cb606c3b0caf2a7f3/media/image2.png){width="6.409645669291338in"
+![](resources/media/image2.png){width="6.409645669291338in"
 height="2.6166721347331583in"}
 
 3.  **Environment Variables:** In System Properties window, under
-    '*Advanced*' tab click on the '*Environment Variables*' button.
+    '_Advanced_' tab click on the '_Environment Variables_' button.
 
 ![A screenshot of a computer settings Description automatically
-generated](vertopal_fe2db0815f4c4c8cb606c3b0caf2a7f3/media/image3.png){width="2.46875in"
+generated](resources/media/image3.png){width="2.46875in"
 height="2.6871161417322833in"}
 
-4.  Select **JAVA_HOME**: In the System variables section, click '*New*'
+4.  Select **JAVA_HOME**: In the System variables section, click '_New_'
     to create a new variable:
 
-5.  Set **Variable name***:* *JAVA_HOME*
+5.  Set **Variable name\***:\* _JAVA_HOME_
 
-6.  ![](vertopal_fe2db0815f4c4c8cb606c3b0caf2a7f3/media/image4.png){width="3.71875in"
+6.  ![](resources/media/image4.png){width="3.71875in"
     height="3.9993055555555554in"}Set **Variable value**: the path to
-    your Java installation e.g: *C:\\Program Files\\Java\\jdk-22*
+    your Java installation e.g: _C:\\Program Files\\Java\\jdk-22_
 
 **Update Path Variable**
 
-1.  ![](vertopal_fe2db0815f4c4c8cb606c3b0caf2a7f3/media/image6.png){width="4.34375in"
-    height="4.733333333333333in"}Select the '*Path*' variable under
-    '*System Variables*' and click '*Edit*' button.
+1.  ![](resources/media/image6.png){width="4.34375in"
+    height="4.733333333333333in"}Select the '_Path_' variable under
+    '_System Variables_' and click '_Edit_' button.
 
-2.  Click '*New*' and add: *%JAVA_HOME%\\bin*
+2.  Click '_New_' and add: _%JAVA_HOME%\\bin_
 
-3.  **Confirm Changes**: Click '*OK*' to apply the changes.
+3.  **Confirm Changes**: Click '_OK_' to apply the changes.
 
-![](vertopal_fe2db0815f4c4c8cb606c3b0caf2a7f3/media/image7.png){width="6.5in"
+![](resources/media/image7.png){width="6.5in"
 height="7.18125in"}
 
 **Verify The Installation (Java Version Check)**
@@ -82,28 +81,29 @@ height="7.18125in"}
 
 2.  Check Java Version:
 
--   Type **java -version** in the command prompt.
+- Type **java -version** in the command prompt.
 
--   ![](vertopal_fe2db0815f4c4c8cb606c3b0caf2a7f3/media/image8.png){width="6.5in"
-    height="1.5805555555555555in"}Press Enter.
+- ![](resources/media/image8.png){width="6.5in"
+  height="1.5805555555555555in"}Press Enter.
 
 **Part B -- Java Hello World Program**
 
--   **Create a Folder**:
+- **Create a Folder**:
 
-    -   In Desktop of your computer
+  - In Desktop of your computer
 
-    -   Create a New Folder named: '**Lab 1**'
+  - Create a New Folder named: '**Lab 1**'
 
--   **Open Notepad**: Start Notepad on your computer to begin writing
-    your program.
+- **Open Notepad**: Start Notepad on your computer to begin writing
+  your program.
 
--   **Hello World Program:**
+- **Hello World Program:**
 
 ```{=html}
 <!-- -->
 ```
--   In Notepad, write your first Hello World Java program as below:
+
+- In Notepad, write your first Hello World Java program as below:
 
 > public class Lab1Q1 {
 >
@@ -115,69 +115,73 @@ height="7.18125in"}
 >
 > }
 >
-> ![](vertopal_fe2db0815f4c4c8cb606c3b0caf2a7f3/media/image9.png){width="4.885416666666667in"
+> ![](resources/media/image9.png){width="4.885416666666667in"
 > height="1.8020833333333333in"}
 
--   Replace 'ITxx xxx xxx' in [line 3]{.underline} above code, with your
-    own Student ID.
+- Replace 'ITxx xxx xxx' in [line 3]{.underline} above code, with your
+  own Student ID.
 
--   Save this file inside 'Lab 1' folder as: **Lab1Q1.java** make sure
-    to select 'All files' under 'Save as type'.
+- Save this file inside 'Lab 1' folder as: **Lab1Q1.java** make sure
+  to select 'All files' under 'Save as type'.
 
-![](vertopal_fe2db0815f4c4c8cb606c3b0caf2a7f3/media/image10.png){width="5.897428915135608in"
+![](resources/media/image10.png){width="5.897428915135608in"
 height="4.341666666666667in"}
 
--   **Open Command Prompt inside 'Lab 1' Folder:**
+- **Open Command Prompt inside 'Lab 1' Folder:**
 
 ```{=html}
 <!-- -->
 ```
--   Inside 'Lab 1' folder, type **cmd** in the ***address bar*** of File
-    Explorer and press Enter.
+
+- Inside 'Lab 1' folder, type **cmd** in the **_address bar_** of File
+  Explorer and press Enter.
 
 > ![A screenshot of a computer Description automatically
-> generated](vertopal_fe2db0815f4c4c8cb606c3b0caf2a7f3/media/image11.png){width="3.3541666666666665in"
+generated](resources/media/image11.png){width="3.3541666666666665in"
 > height="2.7144542869641293in"}
 
--   This will open Command Prompt with the path set to the 'Lab 1'
-    folder.
+- This will open Command Prompt with the path set to the 'Lab 1'
+  folder.
 
 > ![A screenshot of a computer program Description automatically
-> generated](vertopal_fe2db0815f4c4c8cb606c3b0caf2a7f3/media/image12.png){width="6.5in"
+generated](resources/media/image12.png){width="6.5in"
 > height="1.461111111111111in"}
 
--   **Compile the Program:**
+- **Compile the Program:**
 
 ```{=html}
 <!-- -->
 ```
--   Compile the Java program typing: **javac Lab1Q1.java**
+
+- Compile the Java program typing: **javac Lab1Q1.java**
 
 > ![A screen shot of a computer program Description automatically
-> generated](vertopal_fe2db0815f4c4c8cb606c3b0caf2a7f3/media/image13.png){width="4.73083552055993in"
+generated](resources/media/image13.png){width="4.73083552055993in"
 > height="1.397516404199475in"}
 
--   **Generated Byte Code (.class file):**
+- **Generated Byte Code (.class file):**
 
 ```{=html}
 <!-- -->
 ```
--   Verify that **Lab1Q1.class** appears in the directory, indicating
-    successful compilation.
 
-![](vertopal_fe2db0815f4c4c8cb606c3b0caf2a7f3/media/image14.png){width="5.276042213473316in"
+- Verify that **Lab1Q1.class** appears in the directory, indicating
+  successful compilation.
+
+![](resources/media/image14.png){width="5.276042213473316in"
 height="3.147024278215223in"}
 
--   **Run the Program:**
+- **Run the Program:**
 
 ```{=html}
 <!-- -->
 ```
--   In CMD, type: **java Lab1Q1** to run your program.
 
--   Confirm displayed output.
+- In CMD, type: **java Lab1Q1** to run your program.
 
-![](vertopal_fe2db0815f4c4c8cb606c3b0caf2a7f3/media/image15.png){width="4.414491469816273in"
+- Confirm displayed output.
+
+![](resources/media/image15.png){width="4.414491469816273in"
 height="2.3476257655293087in"}
 
 Finally, you need to upload the Java source file to GitHub Repository
@@ -189,170 +193,169 @@ Finally, you need to upload the Java source file to GitHub Repository
 
 ### Step 1: Go to GitHub Website
 
--   Open your web browser and navigate to: <https://github.com/>
+- Open your web browser and navigate to: <https://github.com/>
 
 **Step 2: Sign Up**
 
--   Click 'Sign Up' button, typically located in the top right corner of
-    the homepage.
+- Click 'Sign Up' button, typically located in the top right corner of
+  the homepage.
 
--   This will redirect you to the registration page.
+- This will redirect you to the registration page.
 
 ![A screenshot of a computer Description automatically
-generated](vertopal_fe2db0815f4c4c8cb606c3b0caf2a7f3/media/image16.png){width="6.934076990376203in"
+generated](resources/media/image16.png){width="6.934076990376203in"
 height="3.5416666666666665in"}
 
 ### Step 3: Signup Details
 
--   **Email Address:** Enter a your SLIIT email address.
+- **Email Address:** Enter a your SLIIT email address.
 
--   **Password:** Create a strong password, ideally at least 15
-    characters long or at least 8 characters including a mix of letters,
-    numbers, and symbols.
+- **Password:** Create a strong password, ideally at least 15
+  characters long or at least 8 characters including a mix of letters,
+  numbers, and symbols.
 
--   **Username:** Enter your student ID as the username (e.g.,
-    IT2423233). **Make sure to type IT in CAPS of your Student ID**.
+- **Username:** Enter your student ID as the username (e.g.,
+  IT2423233). **Make sure to type IT in CAPS of your Student ID**.
 
-![](vertopal_fe2db0815f4c4c8cb606c3b0caf2a7f3/media/image17.png){width="6.392361111111111in"
+![](resources/media/image17.png){width="6.392361111111111in"
 height="5.331944444444445in"}
 
 ### Step 4: Verify your Account
 
--   Complete the CAPTCHA challenge to confirm that you are not a robot.
+- Complete the CAPTCHA challenge to confirm that you are not a robot.
 
-![](vertopal_fe2db0815f4c4c8cb606c3b0caf2a7f3/media/image19.png){width="2.821428258967629in"
+![](resources/media/image19.png){width="2.821428258967629in"
 height="2.534654418197725in"}
 
 ### Step 5: Verify your Email address
 
--   Check your email inbox for a verification email from GitHub.
+- Check your email inbox for a verification email from GitHub.
 
--   Click the provided link to verify your email address.
+- Click the provided link to verify your email address.
 
 ![A screenshot of a computer Description automatically
-generated](vertopal_fe2db0815f4c4c8cb606c3b0caf2a7f3/media/image20.png){width="6.5in"
+generated](resources/media/image20.png){width="6.5in"
 height="3.477777777777778in"}
 
 ### Step 6: Sign in to the GitHub
 
--   Enter your username and password
+- Enter your username and password
 
 ![A screenshot of a login form Description automatically
-generated](vertopal_fe2db0815f4c4c8cb606c3b0caf2a7f3/media/image21.png){width="2.428472222222222in"
+generated](resources/media/image21.png){width="2.428472222222222in"
 height="3.0236111111111112in"}
 
 ### Step 7: Set up your Profile
 
--   If you want, you can do the personalization for this account or you
-    can skip this step by clicking the skip personalization.
+- If you want, you can do the personalization for this account or you
+  can skip this step by clicking the skip personalization.
 
 ![A screenshot of a computer Description automatically
-generated](vertopal_fe2db0815f4c4c8cb606c3b0caf2a7f3/media/image22.png){width="6.5in"
+generated](resources/media/image22.png){width="6.5in"
 height="3.0840277777777776in"}
 
 ### Step 8: Start using GitHub
 
--   Your account is now ready. You can begin by creating repositories,
-    participating in projects, and exploring the work of other GitHub
-    users.
+- Your account is now ready. You can begin by creating repositories,
+  participating in projects, and exploring the work of other GitHub
+  users.
 
-![](vertopal_fe2db0815f4c4c8cb606c3b0caf2a7f3/media/image23.png){width="6.253472222222222in"
+![](resources/media/image23.png){width="6.253472222222222in"
 height="3.0in"}
 
 **Submitting Lab Source Files to GitHub**
 
 ### Step 1: Open the Assignment Link
 
--   Courseweb will provide the link to GitHub Classroom assignment
-    submission page.
+- Courseweb will provide the link to GitHub Classroom assignment
+  submission page.
 
 ### Step 2: Authorize GitHub Classroom
 
--   If it's your first-time using GitHub Classroom, you may be prompted
-    to authorize GitHub Classroom to access your GitHub account.
+- If it's your first-time using GitHub Classroom, you may be prompted
+  to authorize GitHub Classroom to access your GitHub account.
 
--   ![](vertopal_fe2db0815f4c4c8cb606c3b0caf2a7f3/media/image24.png){width="5.0472222222222225in"
-    height="5.9743055555555555in"}Click on the '*Authorize GitHub
-    Classroom*' button to proceed.
+- ![](resources/media/image24.png){width="5.0472222222222225in"
+  height="5.9743055555555555in"}Click on the '_Authorize GitHub
+  Classroom_' button to proceed.
 
 ### Step 3: Select the student IT Number in the list
 
 ![A screenshot of a classroom Description automatically
-generated](vertopal_fe2db0815f4c4c8cb606c3b0caf2a7f3/media/image25.png){width="5.701388888888889in"
+generated](resources/media/image25.png){width="5.701388888888889in"
 height="3.7354166666666666in"}
 
 ### Step 4: Accept the Assignment
 
--   After Selecting the IT Number, you will be directed to the
-    assignment acceptance page.
+- After Selecting the IT Number, you will be directed to the
+  assignment acceptance page.
 
--   Click on the '*Accept this assignment*' button.
+- Click on the '_Accept this assignment_' button.
 
--   ![](vertopal_fe2db0815f4c4c8cb606c3b0caf2a7f3/media/image26.png){width="5.269444444444445in"
-    height="2.8208333333333333in"}GitHub Classroom will start setting up
-    your repository. This process may take a few moments.
+- ![](resources/media/image26.png){width="5.269444444444445in"
+  height="2.8208333333333333in"}GitHub Classroom will start setting up
+  your repository. This process may take a few moments.
 
 ### Step 5: Access Your Repository
 
--   The URL of your Git Repository will be in following format:
+- The URL of your Git Repository will be in following format:
 
-> *https://github.com/* ***organization_name/***
-> ***assignment_name-username***
+> *https://github.com/* **_organization_name/_** > **_assignment_name-username_**
 
--   ![](vertopal_fe2db0815f4c4c8cb606c3b0caf2a7f3/media/image27.png){width="5.809027777777778in"
-    height="2.6215277777777777in"}**Bookmark or save this URL for easy
-    access in future lab submissions**.
+- ![](resources/media/image27.png){width="5.809027777777778in"
+  height="2.6215277777777777in"}**Bookmark or save this URL for easy
+  access in future lab submissions**.
 
--   ![](vertopal_fe2db0815f4c4c8cb606c3b0caf2a7f3/media/image28.png){width="6.989583333333333in"
-    height="3.0118055555555556in"}Clicking the generated URL of your
-    repository it will be redirected to your newly created GitHub
-    repository
+- ![](resources/media/image28.png){width="6.989583333333333in"
+  height="3.0118055555555556in"}Clicking the generated URL of your
+  repository it will be redirected to your newly created GitHub
+  repository
 
 ### Step 6: Access the Folder you want to submit the answer
 
--   In the repository, locate the '*Q1*' folder by clicking on it. This
-    will take you inside the folder.
+- In the repository, locate the '_Q1_' folder by clicking on it. This
+  will take you inside the folder.
 
-![](vertopal_fe2db0815f4c4c8cb606c3b0caf2a7f3/media/image29.png){width="6.5in"
+![](resources/media/image29.png){width="6.5in"
 height="2.2383934820647418in"}
 
 ### Step 7: Upload the Java Files
 
--   Inside the 'Q1' folder, click on the '*Add file*' button located at
-    the top right corner.
+- Inside the 'Q1' folder, click on the '_Add file_' button located at
+  the top right corner.
 
--   Choose 'Upload files' from the dropdown menu.
+- Choose 'Upload files' from the dropdown menu.
 
--   Drag and drop your **Lab1Q1.java** file or select '*choose your
-    files*' link to navigate to your file saved in your computer.
+- Drag and drop your **Lab1Q1.java** file or select '_choose your
+  files_' link to navigate to your file saved in your computer.
 
--   Once the file is selected, it will be uploaded to the GitHub
-    Repository.
+- Once the file is selected, it will be uploaded to the GitHub
+  Repository.
 
-![](vertopal_fe2db0815f4c4c8cb606c3b0caf2a7f3/media/image29.png){width="6.5in"
+![](resources/media/image29.png){width="6.5in"
 height="2.2381944444444444in"}
 
 ### Step 8: Commit the File
 
--   After uploading the file, you will be directed to a '*Commit
-    change*' section at the bottom of the page.
+- After uploading the file, you will be directed to a '_Commit
+  change_' section at the bottom of the page.
 
--   Enter a commit message in the input box provided. Sample commit
-    message could be something like: '***Add Lab1Q1.java to Q1***'.
+- Enter a commit message in the input box provided. Sample commit
+  message could be something like: '**_Add Lab1Q1.java to Q1_**'.
 
--   Ensure that you select '***Commit directly to the main branch***'
-    option.
+- Ensure that you select '**_Commit directly to the main branch_**'
+  option.
 
--   Click on '*Commit changes*'.
+- Click on '_Commit changes_'.
 
-![](vertopal_fe2db0815f4c4c8cb606c3b0caf2a7f3/media/image31.png){width="6.5in"
+![](resources/media/image31.png){width="6.5in"
 height="3.704861111111111in"}
 
 ### Step 9: Verify Submission
 
--   After committing the changes, GitHub will return you to the folder
-    view where you can see your newly uploaded **Lab1Q1.java** file
-    inside the 'Q1' folder.
+- After committing the changes, GitHub will return you to the folder
+  view where you can see your newly uploaded **Lab1Q1.java** file
+  inside the 'Q1' folder.
 
--   Make sure the file is correctly placed and contains the appropriate
-    content.
+- Make sure the file is correctly placed and contains the appropriate
+  content.
