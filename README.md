@@ -7,50 +7,33 @@
 4. **Download the Installer**: For Windows, select the link for the ‘x64 Installer’ to begin downloading the file named: `jdk-22_windows-x64_bin.exe`
 5. **Complete the Installation**: Once downloaded, run the `jdk-22_windows-x64_bin.exe` file and follow the on-screen instructions to install Java.
 
-    ![](resources/media/image1.png){width="6.758333333333334in" height="3.198611111111111in"}
-   <img src="resources/media/image1.png" width="675" height="320">
+    ![](resources/media/image1.png)
     
-**Java Environment Home Path Setup**
+### Java Environment Home Path Setup
+1. **Locate Installation Directory**: Java installation default location is: `C:\Program Files\Java\jdk-22`
+2. **Open System Properties**: 
+   - Open the Start Menu: Click on the Start button or press the Windows key.
+   - Access Control Panel: Type "Control Panel" into the search box and click on it from the search results.
+   - System and Security: In the Control Panel, click on ‘System and Security’.
+   - System: Click on ‘System’.
+   - Advanced System Settings: Click ‘Advanced system settings’ on the right side.
 
-1.  **Locate Installation Directory**: Java installation default
-    location is:
+![](resources/media/image2.png)
 
-_C:\\Program Files\\Java\\jdk-22_
-
-2.  **Open System Properties**:
-
-    - **Open the Start Menu**: Click on the Start button or press the
-      Windows key.
-
-    - **Access Control Panel**: Type _Control Panel_ into the search
-      box and click on it from the search results.
-
-    - **System and Security**: In the Control Panel, click on '_System
-      and Security_'.
-
-    - **System**: Click on '_System_'.
-
-    - **Advanced System Settings**: Click '_Advanced system settings_'
-      on the right side.
-
-![](resources/media/image2.png){width="6.409645669291338in"
-height="2.6166721347331583in"}
-
-3.  **Environment Variables:** In System Properties window, under
-    '_Advanced_' tab click on the '_Environment Variables_' button.
+3. **Environment Variables**: In the System Properties window under the ‘Advanced’ tab, click on the ‘Environment Variables’ button.
 
 ![A screenshot of a computer settings Description automatically
-generated](resources/media/image3.png){width="2.46875in"
-height="2.6871161417322833in"}
+generated](resources/media/image3.png)
 
 4.  Select **JAVA_HOME**: In the System variables section, click '_New_'
     to create a new variable:
 
 5.  Set **Variable name\***:\* _JAVA_HOME_
 
-6.  ![](resources/media/image4.png){width="3.71875in"
-    height="3.9993055555555554in"}Set **Variable value**: the path to
+6.  Set **Variable value**: the path to
     your Java installation e.g: _C:\\Program Files\\Java\\jdk-22_
+
+    ![](resources/media/image4.png)
 
 **Update Path Variable**
 
