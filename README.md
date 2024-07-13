@@ -2,21 +2,39 @@
 
 ### JDK Download
 1. **Visit Oracle Java Download Page**: [Oracle Java Download](https://www.oracle.com/java/technologies/downloads/)
-2. **Select Java Version**: Select the latest Java Development Kit (JDK) version; in this example, JDK 22 is selected.
-3. **Choose Your Operating System**: Click on the appropriate download link for your operating system (Windows, MacOS, Linux).
-4. **Download the Installer**: For Windows, select the link for the ‘x64 Installer’ to begin downloading the file named: `jdk-22_windows-x64_bin.exe`
-5. **Complete the Installation**: Once downloaded, run the `jdk-22_windows-x64_bin.exe` file and follow the on-screen instructions to install Java.
+   
+3. **Select Java Version**: Select the latest Java Development Kit (JDK) version; in this example, JDK 22 is selected.
+   
+5. **Choose Your Operating System**: Click on the appropriate download link for your operating system (Windows, MacOS, Linux).
+   
+7. **Download the Installer**: For Windows, select the link for the ‘x64 Installer’ to begin downloading the file named: `jdk-22_windows-x64_bin.exe`
+   
+9. **Complete the Installation**: Once downloaded, run the `jdk-22_windows-x64_bin.exe` file and follow the on-screen instructions to install Java.
 
     ![](resources/media/image1.png)
     
 ### Java Environment Home Path Setup
-1. **Locate Installation Directory**: Java installation default location is: `C:\Program Files\Java\jdk-22`
-2. **Open System Properties**: 
-   - Open the Start Menu: Click on the Start button or press the Windows key.
-   - Access Control Panel: Type "Control Panel" into the search box and click on it from the search results.
-   - System and Security: In the Control Panel, click on ‘System and Security’.
-   - System: Click on ‘System’.
-   - Advanced System Settings: Click ‘Advanced system settings’ on the right side.
+
+1.  **Locate Installation Directory**: Java installation default
+    location is:
+
+_C:\\Program Files\\Java\\jdk-22_
+
+2.  **Open System Properties**:
+
+    - **Open the Start Menu**: Click on the Start button or press the
+      Windows key.
+
+    - **Access Control Panel**: Type _Control Panel_ into the search
+      box and click on it from the search results.
+
+    - **System and Security**: In the Control Panel, click on '_System
+      and Security_'.
+
+    - **System**: Click on '_System_'.
+
+    - **Advanced System Settings**: Click '_Advanced system settings_'
+      on the right side.
 
 ![](resources/media/image2.png)
 
@@ -37,16 +55,15 @@ generated](resources/media/image3.png)
 
 **Update Path Variable**
 
-1.  ![](resources/media/image6.png){width="4.34375in"
-    height="4.733333333333333in"}Select the '_Path_' variable under
-    '_System Variables_' and click '_Edit_' button.
+1.  Select the '_Path_' variable under '_System Variables_' and click '_Edit_' button.
+
+    ![](resources/media/image6.png)
 
 2.  Click '_New_' and add: _%JAVA_HOME%\\bin_
 
 3.  **Confirm Changes**: Click '_OK_' to apply the changes.
 
-![](resources/media/image7.png){width="6.5in"
-height="7.18125in"}
+![](resources/media/image7.png)
 
 **Verify The Installation (Java Version Check)**
 
@@ -55,11 +72,11 @@ height="7.18125in"}
 2.  Check Java Version:
 
 - Type **java -version** in the command prompt.
+- Press Enter.
 
-- ![](resources/media/image8.png){width="6.5in"
-  height="1.5805555555555555in"}Press Enter.
+- ![](resources/media/image8.png)
 
-**Part B -- Java Hello World Program**
+## Part B -- Java Hello World Program
 
 - **Create a Folder**:
 
@@ -88,8 +105,7 @@ height="7.18125in"}
 >
 > }
 >
-> ![](resources/media/image9.png){width="4.885416666666667in"
-> height="1.8020833333333333in"}
+> ![](resources/media/image9.png)
 
 - Replace 'ITxx xxx xxx' in [line 3]{.underline} above code, with your
   own Student ID.
@@ -97,8 +113,7 @@ height="7.18125in"}
 - Save this file inside 'Lab 1' folder as: **Lab1Q1.java** make sure
   to select 'All files' under 'Save as type'.
 
-![](resources/media/image10.png){width="5.897428915135608in"
-height="4.341666666666667in"}
+![](resources/media/image10.png)
 
 - **Open Command Prompt inside 'Lab 1' Folder:**
 
@@ -109,9 +124,7 @@ height="4.341666666666667in"}
 - Inside 'Lab 1' folder, type **cmd** in the **_address bar_** of File
   Explorer and press Enter.
 
-> ![A screenshot of a computer Description automatically
-generated](resources/media/image11.png){width="3.3541666666666665in"
-> height="2.7144542869641293in"}
+> ![](resources/media/image11.png)
 
 - This will open Command Prompt with the path set to the 'Lab 1'
   folder.
