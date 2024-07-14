@@ -36,7 +36,7 @@ _C:\\Program Files\\Java\\jdk-22_
     - **Advanced System Settings**: Click '_Advanced system settings_'
       on the right side.
 
-        <img src="resources/media/image2.png" alt="Image description" width="500" height="200">
+        <img src="resources/media/image2.png" alt="Image description" >
 
 
 3. **Environment Variables**: In the System Properties window under the ‘Advanced’ tab, click on the ‘Environment Variables’ button.
