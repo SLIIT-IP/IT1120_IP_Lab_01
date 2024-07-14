@@ -317,7 +317,7 @@ _C:\\Program Files\\Java\\jdk-22_
 
 - Click on '_Commit changes_'.
 
-![](resources/media/image31s.png)
+![](resources/media/image31.png)
 
 ### Step 9: Verify Submission
 
