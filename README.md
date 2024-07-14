@@ -267,13 +267,15 @@ _C:\\Program Files\\Java\\jdk-22_
 
 > *https://github.com/* **_organization_name/_** > **_assignment_name-username_**
 
-- ![](resources/media/image27.png)
+-  **Bookmark or save this URL for easy access in future lab submissions**.
 
-  **Bookmark or save this URL for easy access in future lab submissions**.
-
-- ![](resources/media/image28.png)
+  ![](resources/media/image27.png)
 
 - Clicking the generated URL of your repository it will be redirected to your newly created GitHubrepository.
+
+  ![](resources/media/image28.png)
+
+
 
 ### Step 6: Access the Folder you want to submit the answer
 
