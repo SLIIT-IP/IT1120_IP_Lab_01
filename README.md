@@ -157,7 +157,7 @@ _C:\\Program Files\\Java\\jdk-22_
      <img src="resources/media/image15.png" alt="Image description" style="width:50%; height:50%;">
      </p>
 
-### Finally, you need to upload the Java source file to GitHub Repository (next page).
+   #### Finally, you need to upload the Java source file to GitHub Repository (next page).
 
 
 ## Part C – Lab Submission to GitHub
