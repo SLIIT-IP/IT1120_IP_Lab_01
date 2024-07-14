@@ -53,9 +53,9 @@ _C:\\Program Files\\Java\\jdk-22_
 7.  Set **Variable value**: the path to
     your Java installation e.g: _C:\\Program Files\\Java\\jdk-22_
     
-  <div style="text-align: center;">
+<p align="center">
     <img src="resources/media/image4.png" alt="Image description" style="width:50%; height:50%;">
-   </div>
+</p>
    
 ### Update Path Variable
 
@@ -82,7 +82,9 @@ _C:\\Program Files\\Java\\jdk-22_
 - Type **java -version** in the command prompt.
 - Press Enter.
 
-- ![](resources/media/image8.png)
+![](resources/media/image8.png)
+
+
 
 ## Part B -- Java Hello World Program
 
