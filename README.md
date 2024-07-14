@@ -107,14 +107,17 @@ _C:\\Program Files\\Java\\jdk-22_
       }
   }
   ```
-
-![](resources/media/image9.png)
+    <p align="center">
+    <img src="resources/media/image9.png" alt="Image description" style="width:50%; height:50%;">
+    </p>
 
 - Replace ‘ITxx xxx xxx’ in line 3 above code with your own Student ID.
   
 - Save this file inside the ‘Lab 1’ folder as: `Lab1Q1.java` make sure to select ‘All files’ under ‘Save as type’.
 
-![](resources/media/image10.png)
+    <p align="center">
+    <img src="resources/media/image10.png" alt="Image description" style="width:50%; height:50%;">
+    </p>
 
 - **Open Command Prompt inside 'Lab 1' Folder:**
 
@@ -122,7 +125,9 @@ _C:\\Program Files\\Java\\jdk-22_
 - Inside 'Lab 1' folder, type **cmd** in the **_address bar_** of File
   Explorer and press Enter.
 
-![](resources/media/image11.png)
+    <p align="center">
+    <img src="resources/media/image11.png" alt="Image description" style="width:50%; height:50%;">
+    </p>
 
 - This will open Command Prompt with the path set to the 'Lab 1'
   folder.
@@ -140,7 +145,9 @@ _C:\\Program Files\\Java\\jdk-22_
 - Verify that **Lab1Q1.class** appears in the directory, indicating
   successful compilation.
 
-![](resources/media/image14.png)
+    <p align="center">
+    <img src="resources/media/image14.png" alt="Image description" style="width:50%; height:50%;">
+    </p>
 
 - **Run the Program:**
 
@@ -148,7 +155,9 @@ _C:\\Program Files\\Java\\jdk-22_
   
 - Confirm displayed output.
 
-![](resources/media/image15.png)
+    <p align="center">
+    <img src="resources/media/image15.png" alt="Image description" style="width:50%; height:50%;">
+    </p>
 
 ### Finally, you need to upload the Java source file to GitHub Repository (next page).
 
