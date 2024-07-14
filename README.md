@@ -122,14 +122,14 @@ _C:\\Program Files\\Java\\jdk-22_
 - **Open Command Prompt inside 'Lab 1' Folder:**
 
 
-- Inside 'Lab 1' folder, type **cmd** in the **_address bar_** of File
+   - Inside 'Lab 1' folder, type **cmd** in the **_address bar_** of File
   Explorer and press Enter.
 
     <p align="center">
     <img src="resources/media/image11.png" alt="Image description" style="width:50%; height:50%;">
     </p>
 
-- This will open Command Prompt with the path set to the 'Lab 1'
+   - This will open Command Prompt with the path set to the 'Lab 1'
   folder.
 
 ![](resources/media/image12.png)
