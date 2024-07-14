@@ -144,7 +144,7 @@ _C:\\Program Files\\Java\\jdk-22_
   successful compilation.
 
     <p align="center">
-    <img src="resources/media/image14.png" alt="Image description" style="width:50%; height:50%;">
+    <img src="resources/media/image14.png" alt="Image description" >
     </p>
 
 - **Run the Program:**
