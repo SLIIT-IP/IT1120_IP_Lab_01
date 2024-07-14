@@ -53,13 +53,13 @@ _C:\\Program Files\\Java\\jdk-22_
 
     ![](resources/media/image4.png)
 
-**Update Path Variable**
+### Update Path Variable
 
-1.  Select the '_Path_' variable under '_System Variables_' and click '_Edit_' button.
+1.  Select the **'_Path_'** variable under **'_System Variables_'** and click **'_Edit_'** button.
 
     ![](resources/media/image6.png)
 
-2.  Click '_New_' and add: _%JAVA_HOME%\\bin_
+2.  Click **'_New_'** and add: _%JAVA_HOME%\\bin_
 
 3.  **Confirm Changes**: Click '_OK_' to apply the changes.
 
