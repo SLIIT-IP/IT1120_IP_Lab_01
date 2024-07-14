@@ -41,9 +41,9 @@ _C:\\Program Files\\Java\\jdk-22_
 
 3. **Environment Variables**: In the System Properties window under the ‘Advanced’ tab, click on the ‘Environment Variables’ button.
 
-   <div style="text-align: center;">
+  <p align="center">
     <img src="resources/media/image3.png" alt="Image description" style="width:50%; height:50%;">
-   </div>
+  </p>
   
 5.  Select **JAVA_HOME**: In the System variables section, click '_New_'
     to create a new variable:
@@ -61,17 +61,17 @@ _C:\\Program Files\\Java\\jdk-22_
 
 1.  Select the **'_Path_'** variable under **'_System Variables_'** and click **'_Edit_'** button.
 
-    <div style="text-align: center;">
+    <p align="center">
     <img src="resources/media/image6.png" alt="Image description" style="width:50%; height:50%;">
-    </div>
+    </p>
 
 3.  Click **'_New_'** and add: _%JAVA_HOME%\\bin_
 
 4.  **Confirm Changes**: Click '_OK_' to apply the changes.
 
-    <div style="text-align: center;">
+    <p align="center">
     <img src="resources/media/image7.png" alt="Image description" style="width:50%; height:50%;">
-    </div>
+    </p>
 
 **Verify The Installation (Java Version Check)**
 
