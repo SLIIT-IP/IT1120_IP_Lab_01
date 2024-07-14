@@ -234,28 +234,32 @@ _C:\\Program Files\\Java\\jdk-22_
 
 ### Step 2: Authorize GitHub Classroom
 
-- If it's your first-time using GitHub Classroom, you may be prompted
-  to authorize GitHub Classroom to access your GitHub account.
+- If it's your first-time using GitHub Classroom, you may be prompted to authorize GitHub Classroom to access your GitHub account.
+- Click on the ‘Authorize GitHub Classroom’ button to proceed.
+  
+     <p align="center">
+     <img src="resources/media/image24.png" alt="Image description" >
+     </p>
 
-![](resources/media/image24.png)
-
-Click on the ‘Authorize GitHub Classroom’ button to proceed.
 
 ### Step 3: Select the student IT Number in the list
 
-![](resources/media/image25.png)
+   <p align="center">
+   <img src="resources/media/image25.png" alt="Image description" >
+   </p>
 
 ### Step 4: Accept the Assignment
 
-- After Selecting the IT Number, you will be directed to the
-  assignment acceptance page.
+- After Selecting the IT Number, you will be directed to the assignment acceptance page.
 
 - Click on the '_Accept this assignment_' button.
-
-- ![](resources/media/image26.png)
   
-- GitHub Classroom will start setting up
-  your repository. This process may take a few moments.
+- GitHub Classroom will start setting up your repository. This process may take a few moments.
+
+   <p align="center">
+   <img src="resources/media/image26.png" alt="Image description" >
+   </p>
+  
 
 ### Step 5: Access Your Repository
 
