@@ -38,15 +38,15 @@ _C:\\Program Files\\Java\\jdk-22_
 
 ![](resources/media/image2.png)
 
+
 3. **Environment Variables**: In the System Properties window under the ‘Advanced’ tab, click on the ‘Environment Variables’ button.
 
-![A screenshot of a computer settings Description automatically
-generated](resources/media/image3.png)
+![](resources/media/image3.png)
 
 4.  Select **JAVA_HOME**: In the System variables section, click '_New_'
     to create a new variable:
 
-5.  Set **Variable name\***:\* _JAVA_HOME_
+5.  Set **Variable name**: _JAVA_HOME_
 
 6.  Set **Variable value**: the path to
     your Java installation e.g: _C:\\Program Files\\Java\\jdk-22_
