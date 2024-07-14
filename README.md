@@ -162,7 +162,7 @@ _C:\\Program Files\\Java\\jdk-22_
 
 ## Part C – Lab Submission to GitHub
 
-**GitHub Account Creation**
+### GitHub Account Creation
 
 ### Step 1: Go to GitHub Website
 
@@ -225,7 +225,7 @@ _C:\\Program Files\\Java\\jdk-22_
 
 ![](resources/media/image23.png)
 
-**Submitting Lab Source Files to GitHub**
+### Submitting Lab Source Files to GitHub
 
 ### Step 1: Open the Assignment Link
 
