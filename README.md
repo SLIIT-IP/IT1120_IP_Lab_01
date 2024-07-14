@@ -162,6 +162,7 @@ _C:\\Program Files\\Java\\jdk-22_
 
 ## Part C – Lab Submission to GitHub
 
+
 ### GitHub Account Creation
 
 ### Step 1: Go to GitHub Website
@@ -194,7 +195,9 @@ _C:\\Program Files\\Java\\jdk-22_
 
 - Complete the CAPTCHA challenge to confirm that you are not a robot.
 
-![](resources/media/image19.png)
+     <p align="center">
+     <img src="resources/media/image19.png" alt="Image description" style="width:50%; height:50%;">
+     </p>
 
 ### Step 5: Verify your Email address
 
@@ -208,7 +211,9 @@ _C:\\Program Files\\Java\\jdk-22_
 
 - Enter your username and password
 
-![](resources/media/image21.png)
+     <p align="center">
+     <img src="resources/media/image21.png" alt="Image description" style="width:50%; height:50%;">
+     </p>
 
 ### Step 7: Set up your Profile
 
