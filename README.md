@@ -51,7 +51,7 @@ _C:\\Program Files\\Java\\jdk-22_
 7.  Set **Variable value**: the path to
     your Java installation e.g: _C:\\Program Files\\Java\\jdk-22_
 
-    <img src="resources/media/image4.png" alt="Image description">
+    <img src="resources/media/image4.png" alt="Image description" style="width:50%; height:50%;">
 
 ### Update Path Variable
 
