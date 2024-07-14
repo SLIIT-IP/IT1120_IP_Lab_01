@@ -189,7 +189,7 @@ _C:\\Program Files\\Java\\jdk-22_
 - **Username:** Enter your student ID as the username (e.g.,
   IT2423233). **Make sure to type IT in CAPS of your Student ID**.
 
-![](resources/media/image17.png)
+![](resources/media/Capture17.png)
 
 ### Step 4: Verify your Account
 
